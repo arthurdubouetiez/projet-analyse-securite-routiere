@@ -45,3 +45,8 @@ Le projet comprend plusieurs étapes :
 -Création d'indicateurs et de visualisations.
 
 -Analyse des résultats et restitution.
+
+## Livrables
+
+- [Rapport final](documentation/Accidents_routiers_rendu-final_AB.pdf)
+- [Présentation de soutenance](documentation/Présentation_soutenance.pdf)

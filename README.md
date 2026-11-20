@@ -11,11 +11,11 @@ Le projet s'inscrit dans une démarche d'analyse de données : préparation et e
 
 # Outils utilisés
 
-Python : exploration, préparation et analyse des données.
+-Python : exploration, préparation et analyse des données.
 
-Pandas, Matplotlib, Seaborn : visualisations.
+-Pandas, Matplotlib, Seaborn : visualisations.
 
-Power BI : modélisation des données, création d'indicateurs et visualisations.
+-Power BI : modélisation des données, création d'indicateurs et visualisations.
 
 
 # Contenu du projet

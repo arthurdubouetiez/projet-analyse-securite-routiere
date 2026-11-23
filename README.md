@@ -50,3 +50,20 @@ Le projet comprend plusieurs étapes :
 
 - [Rapport final](documentation/Accidents_routiers_rendu-final_AB.pdf)
 - [Présentation de soutenance](documentation/Présentation_soutenance.pdf)
+
+#
+#
+
+## Visualisations Power BI
+
+### Vue générale
+![Dashboard général](images/dashboard_général.JPG)
+
+### Analyse des usagers
+![Dashboard usagers](images/dashboard_usagers.JPG)
+
+### Analyse du contexte
+![Dashboard contexte](images/dashboard_contexte.JPG)
+
+### Analyse des collisions
+![Dashboard collisions et nuage de points](images/dashboard_collision.JPG)

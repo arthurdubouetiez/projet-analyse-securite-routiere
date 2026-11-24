@@ -11,20 +11,20 @@ Le projet s'inscrit dans une démarche d'analyse de données : préparation et e
 
 ## Outils utilisés
 
--Python : exploration, préparation et analyse des données.
+- Python : exploration, préparation et analyse des données.
 
--Pandas, Matplotlib, Seaborn : visualisations.
+- Pandas, Matplotlib, Seaborn : visualisations.
 
--Power BI : modélisation des données, création d'indicateurs et visualisations.
+- Power BI : modélisation des données, création d'indicateurs et visualisations.
 
 
 ## Contenu du projet
 
--Rapport interactif Power BI.
+- Rapport interactif Power BI.
 
--Rapport méthodologique et analytique.
+- Rapport méthodologique et analytique.
 
--Présentation synthétique du projet.
+- Présentation synthétique du projet.
 
 
 ## Périmètre
@@ -36,15 +36,15 @@ L'analyse porte sur les accidents corporels recensés en France sur la période 
 
 Le projet comprend plusieurs étapes :
 
--Collecte et préparation des données.
+- Collecte et préparation des données.
 
--Exploration et analyse des données avec Python.
+- Exploration et analyse des données avec Python.
 
--Structuration et modélisation des données dans Power BI.
+- Structuration et modélisation des données dans Power BI.
 
--Création d'indicateurs et de visualisations.
+- Création d'indicateurs et de visualisations.
 
--Analyse des résultats et restitution.
+- Analyse des résultats et restitution.
 
 ## Livrables
 

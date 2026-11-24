@@ -85,3 +85,9 @@ Cette page explore les variations de l'indice de gravité des accidents selon le
 ![Dashboard collisions et nuage de points](images/dashboard_collision.JPG)
 
 Ce nuage de points permet d'explorer le taux de mortalité associé aux différents types de collisions, en tenant compte de l'année, du type de route, de l'âge des usagers décédés et des équipements de sécurité recensés.
+
+## Télécharger le rapport Power BI
+
+Le rapport Power BI interactif est disponible au téléchargement :
+
+[**Accéder au rapport Power BI (.pbix)**](https://drive.google.com/file/d/1afg1oa6_jx5shh3vJLF_hVoR7ZEKy7Al/view?usp=sharing)

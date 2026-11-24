@@ -60,9 +60,11 @@ Le projet comprend plusieurs étapes :
 
 - Prétraitement et nettoyage des tables **LIEUX** et **USAGERS** avec Python.
 - Réalisation de visualisations exploratoires avec Matplotlib et Seaborn à partir des données prétraitées par l'ensemble du groupe.
-- Rédaction intégrale du rapport final d'analyse.
+- Participation à la réflexion collective sur la structuration du modèle de données et les transformations Power Query.
 - Conception de 4 pages du rapport Power BI (pages 2, 3, 6 et 7).
-- Rédaction des slides associées aux pages réalisées et de l'introduction de la présentation de soutenance.
+- Rédaction intégrale du rapport final d'analyse.
+- Rédaction des slides correspondant aux pages réalisées et de l'introduction de la présentation de soutenance.
+
 
 ### Vue générale
 ![Dashboard général](images/dashboard_général.JPG)

@@ -69,11 +69,19 @@ Le projet comprend plusieurs étapes :
 ### Vue générale
 ![Dashboard général](images/dashboard_général.JPG)
 
+Cette page présente l'évolution du nombre de décès selon le type de route ainsi que la répartition des niveaux de gravité des accidents en fonction de ce critère. Elle met notamment en évidence la part relativement importante des décès parmi les victimes recensées sur certains types de routes, notamment les routes départementales.
+
 ### Analyse des usagers
 ![Dashboard usagers](images/dashboard_usagers.JPG)
+
+Cette page vise à caractériser les usagers impliqués dans les accidents, en analysant leur répartition par âge, sexe et catégorie d'usager, ainsi que les différences observées en matière de gravité et de mortalité.
 
 ### Analyse du contexte
 ![Dashboard contexte](images/dashboard_contexte.JPG)
 
+Cette page explore les variations de l'indice de gravité des accidents selon les conditions météorologiques, l'éclairage et le territoire. L'objectif est d'identifier les contextes associés à des niveaux de gravité plus élevés et d'explorer les éventuelles tendances observées.
+
 ### Analyse des collisions
 ![Dashboard collisions et nuage de points](images/dashboard_collision.JPG)
+
+Ce nuage de points permet d'explorer le taux de mortalité associé aux différents types de collisions, en tenant compte de l'année, du type de route, de l'âge des usagers décédés et des équipements de sécurité recensés.
